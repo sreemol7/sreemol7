@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @sreemol7
+- 👋 Hi, I’m S R Sreemol
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java,python 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://www.linkedin.com/in/s-r-sreemol-08976891/
 
 <!---
